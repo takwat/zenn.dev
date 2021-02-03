@@ -1,0 +1,23 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/takwat/zenn.dev.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/takwat/zenn.dev/issues"
+  },
+  "homepage": "https://github.com/takwat/zenn.dev#readme",
+  "dependencies": {
+    "zenn-cli": "^0.1.72"
+  }
+}
